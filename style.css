@@ -202,7 +202,7 @@
 .products-container .box3{
    position: absolute;
    padding: 10px;
-   top: 286%;
+   top: 295%;
    left: 20%;
    display: flex;
    flex-direction: column;
@@ -214,7 +214,7 @@
 .products-container .box4{
    position: absolute;
    padding: 10px;
-   top: 286%;
+   top: 295%;
    left: 55%;
    display: flex;
    flex-direction: column;
